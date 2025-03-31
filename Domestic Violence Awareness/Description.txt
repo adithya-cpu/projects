@@ -1,0 +1,16 @@
+Introduction:
+  This is a webpage developed to spread awareness on India's unseen & unheard problem:
+    Domestic Violence
+    This webpage acts as a platform for connecting tradional support systems like NGOs to victims,
+      connects victims with lawyers,
+      gives personalized solutions to victims based on our database - previous use cases,
+      has A.I chatbot
+
+Tech Stack:
+  HTML for layout,
+  CSS, bootstrap for styling,
+  JavaScript for user interactivity & for transition of sections
+  Node JS environment for connecting database with frontend
+  SQLite database for previous use-case solutions
+  OpenAI transformer for Chatbot
+  python for Chatbot code
