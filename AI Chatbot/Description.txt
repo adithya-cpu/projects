@@ -1,0 +1,8 @@
+Introduction:
+  This is a chatbot made from OpenAI GPT transformer
+
+Tech Stack:
+  Python,
+  OpenAI GPT,
+  Gradle,
+  OpenAI LLM
