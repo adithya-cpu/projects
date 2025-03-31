@@ -1,0 +1,7 @@
+This is a wikipedia search Application.
+When a user inputs a country name in the textbox,
+based on every key that user types, out changes
+and the UI builds again.
+This application works based on GET & POST fetch Mechanisms
+
+URL: adithyacounsear.ccbp.tech
